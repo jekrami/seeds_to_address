@@ -1,3 +1,4 @@
 bip_utils
-ecdsa
+mnemonic
 base58
+bech32
